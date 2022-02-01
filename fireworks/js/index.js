@@ -2095,7 +2095,7 @@ const Spark = {
 
 
 const soundManager = {
-	baseURL: 'https://www.iculture.cc/demo/fireworks/mp3/',
+	baseURL: 'https://linchengwei.nbnb.buzz/fireworks/mp3/',
 	ctx: new (window.AudioContext || window.webkitAudioContext),
 	sources: {
 		lift: {
